@@ -45,4 +45,5 @@ chown -R "$group_name:$group_name" "$PATH_BASE"
 chmod -R 775 "$PATH_BASE/../"
 
 echo ""
-echo "✅ Hoàn tất! Remote: git@server:repos/$folder_name"
+SERVER_IP=$(hostname -I | awk '{print $1}')
+echo "✅ Hoàn tất! Remote: git@$SERVER_IP:/home/git/repos/$folder_name"
