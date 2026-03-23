@@ -31,3 +31,9 @@ b10: Cấp quyền cho user domain
 sudo chown -R bmdapp-303intage:bmdapp-303intage /home/bmdapp-321admin/htdocs/bmdapp-321admin.net
 sudo chmod -R 775 /home/bmdapp-321admin/htdocs
 
+// mở port 
+```sh
+sudo ufw status # kiểm tra trạng thái firewall
+sudo ufw allow 2222/tcp # mở port 2222
+sudo ufw reload # reload firewall
+```

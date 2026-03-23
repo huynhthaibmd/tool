@@ -66,3 +66,6 @@ cat data.json | python3 jsonToCSV.py -o data.csv
 
 - Bash
 - Python 3
+
+## Cách deploy / How to deploy
+[deploy.git](deploy.git)
