@@ -1,0 +1,264 @@
+TaskName,accWork,date,reportAt,scheduleId,total,totalDay,weight,work
+MASTER SCHEDULE ,0,2026-02-01,1769878800,95970,0,0,10372305054,100
+Item: Công tác tạm / Premilinary works,0,2026-02-01,1769878800,95971,0,0,10372305054,100
+OTHERS,0,2026-02-01,1769878800,96007,0,0,519639589,100
+Insurrances + Bond,0,2026-02-01,1769878800,96008,310,310,64212329,100
+Legal requirement,0,2026-02-01,1769878800,96009,330,330,0,100
+Site clean before construction,0,2026-02-01,1769878800,96010,350,350,145427260,100
+Project Sign Board,0,2026-02-01,1769878800,96011,370,370,10000000,100
+"Mechanical plant (Hoist or tower crane, mobile crane…)",0,2026-02-01,1769878800,96013,40.56,40.56,0,100
+Overtime cost for Consultant and Employer's staff,0,2026-02-01,1769878800,96015,22.19,22.19,0,100
+Monitoring settlement,0,2026-02-01,1769878800,96016,23.27,23.27,0,100
+CCTV for construction (will be installed around the fence),0,2026-02-01,1769878800,96018,450,450,0,100
+Mobilization & demobilization,0,2026-02-01,1769878800,96019,25.44,25.44,0,100
+Re-design fees of the warehouse,0,2026-02-01,1769878800,96020,26.52,26.52,0,100
+Addjustment construction license fees of the warehouse,0,2026-02-01,1769878800,96021,27.6,27.6,0,100
+Item: Nhà sản xuất / Process & Ware house (30.5x99.2m),0,2026-02-01,1769878800,96022,0,0,0,100
+KẾT CẤU BÊ TÔNG CỐT THÉP CONCRETE STRUCTURE,0,2026-02-01,1769878800,96023,0,0,0,100
+Công tác cọc Pilling,0,2026-02-01,1769878800,96024,0,0,0,100
+"Huy động, giải thể thiết bị Robot ép cọc Mobilization and demobilization of Robot",0,2026-02-01,1769878800,96025,590,590,0,100
+CỌC D600 (7+305),0,2026-02-01,1769878800,96026,0,0,0,100
+Cung cấp cọc BTCT dự ứng lực D600A Supply prestressed concrete piles D600A,0,2026-02-01,1769878800,96027,630,630,0,100
+"Ép cọc thử tính D600A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D600A (Drilling works & Rock breaking works, Special mortar for pipes)",0,2026-02-01,1769878800,96028,50,50,0,100
+"Ép cọc thử tính D600A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D600A (Drilling works & Rock breaking works, Special mortar for pipes)",0,2026-02-01,1769878800,96029,100,100,0,100
+"Ép cọc thử tính D600A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D600A (Drilling works & Rock breaking works, Special mortar for pipes)",0,2026-02-01,1769878800,96030,690,690,0,100
+Thí nghiệm nén tĩnh cọc D600A Test fee test pile D600A,0,2026-02-01,1769878800,96031,710,710,0,100
+"Ép cọc đại trà D600A (khoan dẫn và ép cọc trong lớp đất, bao gồm vữa chuyên dụng) Press pile D600A (Drilling works, Special mortar for pipe)",0,2026-02-01,1769878800,96032,730,730,0,100
+"Ép cọc đại trà D600A (Khoan dẫn và ép cọ trong lớp đá, bao gồm vữa chuyên dụng) Press pile D600A (Drilling works & Rock breaking works, Special mortar for pipes)",0,2026-02-01,1769878800,96033,750,750,0,100
+CỌC D350 (3+42),0,2026-02-01,1769878800,96034,0,0,0,100
+Cung cấp cọc BTCT dự ứng lực D350A Supply prestressed concrete piles D350A,0,2026-02-01,1769878800,96035,396,396,0,100
+"Ép cọc thử tính D350A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D350A (Drilling works & Rock breaking works, Special mortar for pipes)",0,2026-02-01,1769878800,96036,1,1,0,100
+"Ép cọc thử tính D350A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D350A (Drilling works & Rock breaking works, Special mortar for pipes)",0,2026-02-01,1769878800,96037,1,1,0,100
+Thí nghiệm nén tĩnh cọc D350A Test fee test pile D350A,0,2026-02-01,1769878800,96038,2,2,0,100
+"Ép cọc đại trà D350A (khoan dẫn và ép cọc trong lớp đất, bao gồm vữa chuyên dụng) Press pile D350A (Drilling works, Special mortar for pipe)",0,2026-02-01,1769878800,96039,198,198,0,100
+"Ép cọc đại trà D350A (Khoan dẫn và ép cọ trong lớp đá, bao gồm vữa chuyên dụng) Press pile D350A (Drilling works & Rock breaking works, Special mortar for pipes)",0,2026-02-01,1769878800,96040,198,198,0,100
+CÔNG TÁC KHÁC,0,2026-02-01,1769878800,96041,0,0,0,100
+Cắt đầu cọc D600 Pile cutting D600,0,2026-02-01,1769878800,96042,930,930,0,100
+Cắt đầu cọc D350 Pile cutting D350,0,2026-02-01,1769878800,96043,950,950,0,100
+"Bê tông kết nối đầu cọc, B30 Concrete for connection of pile to pile cap, B30",0,2026-02-01,1769878800,96044,970,970,0,100
+Mặt bích kết nối đầu cọc Steel plate for connection of pile to pile cap,0,2026-02-01,1769878800,96045,990,990,0,100
+Cốt thép kết nối đầu cọc Rebar for connection of pile to pile cap,0,2026-02-01,1769878800,96046,1010,1010,0,100
+Móng Foundation,0,2026-02-01,1769878800,96047,0,0,0,100
+Đào đất Excavation,0,2026-02-01,1769878800,96048,1050,1050,0,100
+Đắp đất hoàn trả Back filling,0,2026-02-01,1769878800,96049,1070,1070,0,100
+"Đầm chặt đất nền tự nhiên Nature subsoil compacted, k>=0.95",0,2026-02-01,1769878800,96050,1090,1090,0,100
+Vận chuyển đất thừa đi đổ Soil disposal,0,2026-02-01,1769878800,96051,1110,1110,0,100
+"Bê tông lót, B10 Lean concrete, B10",0,2026-02-01,1769878800,96052,1130,1130,0,100
+"Bê tông móng, B30 Concrete for foundation, B30",0,2026-02-01,1769878800,96053,1150,1150,0,100
+"Bê tông cổ cột, B30 Concrete for stump column, B30",0,2026-02-01,1769878800,96054,1170,1170,0,100
+Ván khuôn móng Formwork for foudation,0,2026-02-01,1769878800,96055,1190,1190,0,100
+Ván khuôn cổ cột Formwork for stump column,0,2026-02-01,1769878800,96056,1210,1210,0,100
+Cốt thép móng Rebar for pile cap,0,2026-02-01,1769878800,96057,1230,1230,0,100
+Cốt thép cổ cột Rebar for stump column,0,2026-02-01,1769878800,96058,1250,1250,0,100
+Hố pit Pit,0,2026-02-01,1769878800,96059,0,0,0,100
+Đào đất Excavation,0,2026-02-01,1769878800,96060,100,100,0,100
+Đắp đất hoàn trả Back filling,0,2026-02-01,1769878800,96061,100,100,0,100
+"Đầm chặt đất nền tự nhiên Nature subsoil compacted, k>=0.95",0,2026-02-01,1769878800,96062,100,100,0,100
+Vận chuyển đất thừa đi đổ Soil disposal,0,2026-02-01,1769878800,96063,100,100,0,100
+"Bê tông lót, B10 Lean concrete, B10",0,2026-02-01,1769878800,96064,100,100,0,100
+"Bê tông đáy, B30 Concrete for base, B30",0,2026-02-01,1769878800,96065,100,100,0,100
+"Bê tông vách bê tông, B30 Concrete for RC wall, B30",0,2026-02-01,1769878800,96066,100,100,0,100
+"Bê tông dầm, B30 Concrete for beamn, B30",0,2026-02-01,1769878800,96067,100,100,0,100
+Ván khuôn đáy bể Formwork for bottom slab,0,2026-02-01,1769878800,96068,100,100,0,100
+Ván khuôn vách bê tông Formwork for RC wall,0,2026-02-01,1769878800,96069,100,100,0,100
+Ván khuôn dầm Formwork for beam,0,2026-02-01,1769878800,96070,100,100,0,100
+Cốt thép đáy + đà kiềng Rebar for slab & ground beam,0,2026-02-01,1769878800,96071,100,100,0,100
+Cốt thép vách Rebar for concrete wall,0,2026-02-01,1769878800,96072,100,100,0,100
+Cốt thép dầm Rebar for beam,0,2026-02-01,1769878800,96073,100,100,0,100
+Cung cấp lắp đặt waterbar Supply & install waterstop bar,0,2026-02-01,1769878800,96074,100,100,0,100
+Chống thấm thành & đáy bể Waterproofing for water tank,0,2026-02-01,1769878800,96075,100,100,0,100
+Lớp màng chống thấm HDPE HDPE water proofing membrane layer,0,2026-02-01,1769878800,96076,100,100,0,100
+Mương và hố thu Trecnh and sumpit,0,2026-02-01,1769878800,96085,0,0,0,100
+Đào đất Excavation,0,2026-02-01,1769878800,96086,100,100,0,100
+"Đầm chặt đất nền tự nhiên Nature subsoil compacted, k>=0.95",0,2026-02-01,1769878800,96089,100,100,0,100
+"Bê tông lót, B10 Lean concrete, B10",0,2026-02-01,1769878800,96090,100,100,0,100
+"Bê tông đáy, B30 Concrete for base, B30",0,2026-02-01,1769878800,96091,100,100,0,100
+"Bê tông vách bê tông, B30 Concrete for RC wall, B30",0,2026-02-01,1769878800,96092,100,100,0,100
+Ván khuôn đáy bể Formwork for bottom slab,0,2026-02-01,1769878800,96093,100,100,0,100
+Ván khuôn vách bê tông Formwork for RC wall,0,2026-02-01,1769878800,96094,100,100,0,100
+Cốt thép đáy mương Rebar for trench foundation,0,2026-02-01,1769878800,96095,100,100,0,100
+Cốt thép vách bê tông Rebar for concrete wall,0,2026-02-01,1769878800,96096,100,100,0,100
+Chống thấm mương Waterproofing for trench,0,2026-02-01,1769878800,96097,100,100,0,100
+Thép V50x50x5mm Steel V50x50x5mm,0,2026-02-01,1769878800,96099,100,100,0,100
+"Đà kiềng và nền trệt, cột, sàn tầng 1 Ground beam & floor, column, floor 1st",0,2026-02-01,1769878800,96100,0,0,0,100
+CÔNG TÁC ĐẤT,0,2026-02-01,1769878800,96101,0,0,0,100
+Đào đất Excavation,0,2026-02-01,1769878800,96102,100,100,0,100
+Đắp đất hoàn trả Back filling,0,2026-02-01,1769878800,96103,100,100,0,100
+Vận chuyển đất thừa đi đổ Soil disposal,0,2026-02-01,1769878800,96104,100,100,0,100
+"Đầm chặt đất nền tự nhiên Nature subsoil compacted, k>=0.95",0,2026-02-01,1769878800,96105,100,100,0,100
+BÊ TÔNG,0,2026-02-01,1769878800,96110,0,0,0,100
+"Bê tông lót đà kiềng, B10 Lean concrete ground beam, B10",0,2026-02-01,1769878800,96111,100,100,0,100
+"Bê tông đà kiềng, B30 Concrete for ground beam, B30",0,2026-02-01,1769878800,96113,100,100,0,100
+"Bê tông cột, B30 Concrete for column, B30",0,2026-02-01,1769878800,96117,100,100,0,100
+VÁN KHUÔN,0,2026-02-01,1769878800,96119,0,0,0,100
+Ván khuôn lót đà kiềng Formwork for lean ground beam,0,2026-02-01,1769878800,96121,100,100,0,100
+Ván khuôn đà kiềng Formwork for ground beam,0,2026-02-01,1769878800,96122,100,100,0,100
+"Ván khuôn dầm, sàn cos +0.800 & cos +3.800 Formwork for beam, floor +0.800 & cos +3.800",0,2026-02-01,1769878800,96125,100,100,0,100
+Ván khuôn cột Formwork for column,0,2026-02-01,1769878800,96126,100,100,0,100
+CỐT THÉP,0,2026-02-01,1769878800,96128,0,0,0,100
+Cốt thép đà kiềng Rebar for ground beam,0,2026-02-01,1769878800,96129,100,100,0,100
+"Cốt thép dầm, sàn cos +0.800 & cos +3.800 Rebar for beam, floor +0.800 & cos +3.800",0,2026-02-01,1769878800,96132,100,100,0,100
+Cốt thép cột Rebar for column,0,2026-02-01,1769878800,96133,100,100,0,100
+Dầm sàn tầng 2 Beam & slab 2nd,0,2026-02-01,1769878800,96139,0,0,0,100
+Ván khuôn dầm Formwork for beam,0,2026-02-01,1769878800,96145,100,100,0,100
+Ván khuôn sàn Formwork for slab,0,2026-02-01,1769878800,96146,100,100,0,100
+Cốt thép xà dầm Rebar for beam,0,2026-02-01,1769878800,96149,100,100,0,100
+Cốt thép sàn Rebar for slab,0,2026-02-01,1769878800,96150,25,25,0,100
+Item: Nhà kho nguyên liệu & thành phẩm / FG & RM warehouse (44.95x99.2m),0,2026-02-01,1769878800,96393,0,0,0,100
+KẾT CẤU BÊ TÔNG CỐT THÉP CONCRETE STRUCTURE,0,2026-02-01,1769878800,96394,0,0,0,100
+Phần móng Foundation,0,2026-02-01,1769878800,96395,0,0,0,100
+Đào đất Excavation,0,2026-02-01,1769878800,96396,100,100,0,100
+Đắp đất hoàn trả Back filling,0,2026-02-01,1769878800,96397,100,100,0,100
+Vận chuyển đất thừa đi đổ Soil disposal,0,2026-02-01,1769878800,96398,100,100,0,100
+Đầm đất nền K95 Compaction K95,0,2026-02-01,1769878800,96399,100,100,0,100
+"Bê tông lót cho móng, B10 Lean concrete for foundation, B10",0,2026-02-01,1769878800,96400,100,100,0,100
+"Bê tông móng, B30 Concrete for foundation, B30",0,2026-02-01,1769878800,96401,100,100,0,100
+"Bê tông cổ cột, B30 Concrete for stump column, B30",0,2026-02-01,1769878800,96402,100,100,0,100
+"Bê tông móng máy, B30 Concrete for machine foundation, B30",0,2026-02-01,1769878800,96403,100,100,0,100
+Ván khuôn bê tông lót móng Formwork for lean concrete of foundation,0,2026-02-01,1769878800,96404,100,100,0,100
+Ván khuôn móng Formwork for foundation,0,2026-02-01,1769878800,96405,100,100,0,100
+Ván khuôn cổ cột Formwork for stump column,0,2026-02-01,1769878800,96406,100,100,0,100
+Ván khuôn móng máy Formwork for machine foundation,0,2026-02-01,1769878800,96407,100,100,0,100
+Cốt thép móng Rebar for foudation,0,2026-02-01,1769878800,96408,100,100,0,100
+Cốt thép cổ cột Rebar for stump column,0,2026-02-01,1769878800,96409,100,100,0,100
+Cốt thép móng máy Rebar for machine foudation,0,2026-02-01,1769878800,96410,100,100,0,100
+Phần đà kiềng và nền Ground beam and ground slab,0,2026-02-01,1769878800,96411,0,0,0,100
+Đào đất Excavation,0,2026-02-01,1769878800,96412,100,100,0,100
+Đắp đất hoàn trả Back filling,0,2026-02-01,1769878800,96413,100,100,0,100
+Vận chuyển đất thừa đi đổ Soil disposal,0,2026-02-01,1769878800,96414,100,100,0,100
+Đầm đất nền K95 Compaction K95,0,2026-02-01,1769878800,96415,100,100,0,100
+"Đá (0-4) đầm chặt K=0.95, E=75Mpa Crushed stone compacted K=0.95, E=75Mpa",0,2026-02-01,1769878800,96416,100,100,0,100
+"Bê tông lót cho đà kiềng, B10 Lean concrete for groudbeam, B10",0,2026-02-01,1769878800,96420,100,100,0,100
+"Bê tông đà kiềng, B30 Concrete for ground beam, B30",0,2026-02-01,1769878800,96421,100,100,0,100
+Ván khuôn bê tông lót đà kiềng Formwork for lean concrete of ground beam,0,2026-02-01,1769878800,96423,100,100,0,100
+Ván khuôn đà kiềng Formwork for ground beam,0,2026-02-01,1769878800,96424,100,100,0,100
+Cốt thép đà kiềng Rebar for ground beam,0,2026-02-01,1769878800,96426,100,100,0,100
+"Cốt thép ram dốc, tường chắn, vách hố móng máy",0,2026-02-01,1769878800,96437,100,100,0,100
+Kết cấu bê tông cốt thép phần nổi Superstructures,0,2026-02-01,1769878800,96438,0,0,0,100
+"Bê tông cột, B30 Concrete for column, B30",0,2026-02-01,1769878800,96439,100,100,0,100
+"Bê tông dầm, B30 Concrete for beam, B30",0,2026-02-01,1769878800,96440,100,100,0,100
+"Bê tông sàn, B30 Concrete for floor, B30",0,2026-02-01,1769878800,96441,100,100,0,100
+"Bê tông cầu thang, B20 Concrete for staircase, B20",0,2026-02-01,1769878800,96442,100,100,0,100
+Ván khuôn cột Formwork for column,0,2026-02-01,1769878800,96443,100,100,0,100
+Ván khuôn dầm Formwork for beam,0,2026-02-01,1769878800,96444,100,100,0,100
+Ván khuôn sàn Formwork for floor,0,2026-02-01,1769878800,96445,100,100,0,100
+Ván khuôn cầu thang Formwork for staircase,0,2026-02-01,1769878800,96446,100,100,0,100
+Cốt thép cột Rebar for column,0,2026-02-01,1769878800,96447,100,100,0,100
+Cốt thép dầm Rebar for beam,0,2026-02-01,1769878800,96448,100,100,0,100
+Cốt thép sàn Rebar for floor,0,2026-02-01,1769878800,96449,100,100,0,100
+Cốt thép cầu thang Rebar for staircase,0,2026-02-01,1769878800,96450,100,100,0,100
+STEEL STRUCTURE KẾT CẤU THÉP,0,2026-02-01,1769878800,96451,0,0,0,100
+Kết cấu thép nhà kho chính Steel structure of main warehouse,0,2026-02-01,1769878800,96452,0,0,0,100
+Bulong neo M24 Anchor bolt M24,0,2026-02-01,1769878800,96459,100,100,0,100
+Bulong neo M12 Anchor bolt M12,0,2026-02-01,1769878800,96460,100,100,0,100
+Bulong neo M20 Anchor bolt M20,0,2026-02-01,1769878800,96468,100,100,0,100
+OTHER WORK,0,2026-02-01,1769878800,96573,0,0,0,100
+STEEL STRUCTURE KẾT CẤU THÉP,0,2026-02-01,1769878800,96591,0,0,0,100
+Bulong neo M20 Anchor bolt M20,0,2026-02-01,1769878800,96592,100,100,0,100
+MASTER SCHEDULE ,0,2026-02-01,1769878800,95970,0,0,10372305054,100
+Item: Công tác tạm / Premilinary works,0,2026-02-01,1769878800,95971,0,0,10372305054,100
+SAFETY & SECURITY,0,2026-02-01,1769878800,95985,0,0,1065118000,100
+PPE for workers,0,2026-02-01,1769878800,95986,24.35,24.35,105000000,600
+PPE for visitors,0,2026-02-01,1769878800,95987,25.44,25.44,9000000,350
+Safety Poster & Sign,0,2026-02-01,1769878800,95988,490,490,80000000,100
+Warning tape & Galvanized pipe handrail,0,2026-02-01,1769878800,95989,27.6,27.6,130000000,100
+Dustbin,0,2026-02-01,1769878800,95990,28.68,28.68,3600000,100
+Scaffolding & Safety net,0,2026-02-01,1769878800,95991,29.77,29.77,490518000,100
+Health & sanitary,0,2026-02-01,1769878800,95992,30.85,30.85,240000000,100
+Fire fighting Equipment,0,2026-02-01,1769878800,95993,31.93,31.93,7000000,100
+MASTER SCHEDULE ,0,2026-02-01,1769878800,95970,0,0,10372305054,100
+Item: Công tác tạm / Premilinary works,0,2026-02-01,1769878800,95971,0,0,10372305054,100
+TEMPORARY AREA,0,2026-02-01,1769878800,95972,0,0,1962047465,100
+Temporary road (the temporary roadbed structure has the same structure as the internal road design),0,2026-02-01,1769878800,95973,5.94,5.94,494917465,250
+Re-bar assemble area,0,2026-02-01,1769878800,95974,100,100,66400000,100
+Bike & car Parking,0,2026-02-01,1769878800,95975,250,250,102800000,100
+Gabage house,0,2026-02-01,1769878800,95976,270,270,132800000,100
+Guard house,0,2026-02-01,1769878800,95977,290,290,132800000,100
+Toilet for Board Site office,0,2026-02-01,1769878800,95978,310,310,95000000,100
+Toilet for workers,0,2026-02-01,1769878800,95979,330,330,582000000,100
+Temporary Warehouse,0,2026-02-01,1769878800,95980,350,350,67500000,100
+Smorking area (size 1.5x1.5m),0,2026-02-01,1769878800,95981,100,100,37500000,100
+Truck washing area,0,2026-02-01,1769878800,95982,370,370,30000000,100
+HSE area,0,2026-02-01,1769878800,95983,390,390,135000000,100
+Fence & gate temporary,0,2026-02-01,1769878800,95984,410,410,85330000,100
+MASTER SCHEDULE ,0,2026-02-11,1770742800,95970,0,0,10372305054,100
+Item: Công tác tạm / Premilinary works,0,2026-02-11,1770742800,95971,0,0,10372305054,100
+TEMPORARY AREA,0,2026-02-11,1770742800,95972,0,0,1962047465,100
+Temporary road (the temporary roadbed structure has the same structure as the internal road design),0,2026-02-11,1770742800,95973,29.68,29.68,494917465,250
+Re-bar assemble area,0,2026-02-11,1770742800,95974,100,100,66400000,100
+Bike & car Parking,0,2026-02-11,1770742800,95975,250,250,102800000,100
+Gabage house,0,2026-02-11,1770742800,95976,270,270,132800000,100
+Guard house,0,2026-02-11,1770742800,95977,290,290,132800000,100
+Toilet for Board Site office,0,2026-02-11,1770742800,95978,310,310,95000000,100
+Toilet for workers,0,2026-02-11,1770742800,95979,330,330,582000000,100
+Temporary Warehouse,0,2026-02-11,1770742800,95980,350,350,67500000,100
+Smorking area (size 1.5x1.5m),0,2026-02-11,1770742800,95981,100,100,37500000,100
+Truck washing area,0,2026-02-11,1770742800,95982,370,370,30000000,100
+HSE area,0,2026-02-11,1770742800,95983,390,390,135000000,100
+Fence & gate temporary,0,2026-02-11,1770742800,95984,410,410,85330000,100
+MASTER SCHEDULE ,0,2026-02-02,1769965200,95970,0,0,10372305054,100
+Item: Nhà sản xuất / Process & Ware house (30.5x99.2m),0,2026-02-02,1769965200,96022,0,0,0,100
+KẾT CẤU BÊ TÔNG CỐT THÉP CONCRETE STRUCTURE,0,2026-02-02,1769965200,96023,0,0,0,100
+Dầm sàn tầng 2 Beam & slab 2nd,0,2026-02-02,1769965200,96139,0,0,0,100
+Cốt thép sàn Rebar for slab,25,2026-02-02,1769965200,96150,100,75,0,100
+MASTER SCHEDULE ,0,2026-03-02,1772438931,95970,0,0,10372305054,100
+Item: Nhà sản xuất / Process & Ware house (30.5x99.2m),0,2026-03-02,1772438931,96022,0,0,0,100
+KẾT CẤU BÊ TÔNG CỐT THÉP CONCRETE STRUCTURE,0,2026-03-02,1772438931,96023,0,0,0,100
+Công tác cọc Pilling,0,2026-03-02,1772438931,96024,0,0,0,100
+CỌC D600 (7+305),0,2026-03-02,1772438931,96026,0,0,0,100
+"Ép cọc thử tính D600A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D600A (Drilling works & Rock breaking works, Special mortar for pipes)",50,2026-03-02,1772438931,96028,90,40,0,100
+CỌC D350 (3+42),0,2026-03-02,1772438931,96034,0,0,0,100
+"Ép cọc thử tính D350A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D350A (Drilling works & Rock breaking works, Special mortar for pipes)",1,2026-03-02,1772438931,96036,100,99,0,100
+"Ép cọc thử tính D350A (Khoan dẫn và ép cọ trong lớp đất và lớp đá, bao gồm vữa chuyên dụng) Press the test pile D350A (Drilling works & Rock breaking works, Special mortar for pipes)",1,2026-03-02,1772438931,96037,100,99,0,100
+Thí nghiệm nén tĩnh cọc D350A Test fee test pile D350A,2,2026-03-02,1772438931,96038,100,98,0,100
+CÔNG TÁC KHÁC,0,2026-03-02,1772438931,96041,100,100,0,100
+Móng Foundation,0,2026-03-02,1772438931,96047,100,100,0,100
+Hố pit Pit,0,2026-03-02,1772438931,96059,100,100,0,100
+Mương và hố thu Trecnh and sumpit,0,2026-03-02,1772438931,96085,0,0,0,100
+Đắp đất hoàn trả Back filling,0,2026-03-02,1772438931,96087,100,100,0,100
+Vận chuyển đất thừa đi đổ Soil disposal,0,2026-03-02,1772438931,96088,100,100,0,100
+Tấm grating mạ kẽm nhúng nóng Hot dip galvanized grating panels,0,2026-03-02,1772438931,96098,100,100,0,100
+"Đà kiềng và nền trệt, cột, sàn tầng 1 Ground beam & floor, column, floor 1st",0,2026-03-02,1772438931,96100,0,0,0,100
+CÔNG TÁC ĐẤT,0,2026-03-02,1772438931,96101,0,0,0,100
+"Đá 0x4 đầu chặt K>=0.95 Crush stone 0x4 compacted, k>=0.95",0,2026-03-02,1772438931,96106,100,100,0,100
+BÊ TÔNG,0,2026-03-02,1772438931,96110,0,0,0,100
+"Bê tông dầm, sàn cos +0.800 & cos +3.800, B30 Concrete for beam, floor, cos +0.800 & cos +3.800, B30",0,2026-03-02,1772438931,96116,100,100,0,100
+"Bê tông cầu thang, B30 Concrete for stair case, B30",0,2026-03-02,1772438931,96118,100,100,0,100
+VÁN KHUÔN,0,2026-03-02,1772438931,96119,0,0,0,100
+Ván khuôn cầu thang Formwork for stair case,0,2026-03-02,1772438931,96127,100,100,0,100
+CỐT THÉP,0,2026-03-02,1772438931,96128,0,0,0,100
+Cốt thép cầu thang Rebar for staircase,0,2026-03-02,1772438931,96134,100,100,0,100
+Dầm sàn tầng 2 Beam & slab 2nd,0,2026-03-02,1772438931,96139,0,0,0,100
+"Bê tông cột B30 Concrete for column, B30",0,2026-03-02,1772438931,96140,100,100,0,100
+"Bê tông dầm, B30 Concrete for beamn, B30",0,2026-03-02,1772438931,96141,100,100,0,100
+"Bê tông sàn, B30 Concrete for slab, B30",0,2026-03-02,1772438931,96142,100,100,0,100
+Ván khuôn cột Formwork for column,0,2026-03-02,1772438931,96144,100,100,0,100
+Ván khuôn cầu thang Formwork for stair case,0,2026-03-02,1772438931,96147,100,100,0,100
+Cốt thép cột Rebar for column,0,2026-03-02,1772438931,96148,100,100,0,100
+Cốt thép cầu thang Rebar for staircase,0,2026-03-02,1772438931,96151,50,50,0,100
+Dầm sàn tầng 3 Beam & slab 3rd,0,2026-03-02,1772438931,96162,0,0,0,100
+Ván khuôn dầm Formwork for beam,0,2026-03-02,1772438931,96168,100,100,0,100
+Ván khuôn sàn Formwork for slab,0,2026-03-02,1772438931,96169,50,50,0,100
+Cốt thép xà dầm Rebar for beam,0,2026-03-02,1772438931,96172,20,20,0,100
+Cốt thép sàn Rebar for slab,0,2026-03-02,1772438931,96173,15.48,15.48,0,100
+MASTER SCHEDULE ,0,2026-03-02,1772384400,95970,0,0,10372305054,100
+Item: Nhà kho nguyên liệu & thành phẩm / FG & RM warehouse (44.95x99.2m),0,2026-03-02,1772384400,96393,0,0,0,100
+KẾT CẤU BÊ TÔNG CỐT THÉP CONCRETE STRUCTURE,0,2026-03-02,1772384400,96394,0,0,0,100
+Phần móng Foundation,0,2026-03-02,1772384400,96395,10,10,0,100
+Phần đà kiềng và nền Ground beam and ground slab,0,2026-03-02,1772384400,96411,0,0,0,100
+"Bê tông ram dốc, tường chắn, vách hố móng máy",0,2026-03-02,1772384400,96435,10,10,0,100
+"Ván khuôn ram dốc,tường chắn, vách hố móng máy",0,2026-03-02,1772384400,96436,10,10,0,100
+Kết cấu bê tông cốt thép phần nổi Superstructures,0,2026-03-02,1772384400,96438,10,10,0,100
+MASTER SCHEDULE ,0,2026-03-02,1772384400,95970,0,0,10372305054,100
+Item: Nhà kho nguyên liệu & thành phẩm / FG & RM warehouse (44.95x99.2m),0,2026-03-02,1772384400,96393,0,0,0,100
+HOÀN THIỆN ARCHITECTURE WORKS,0,2026-03-02,1772384400,96507,0,0,0,100
+Công tác Xây & trát Masonry & Plaster Work,0,2026-03-02,1772384400,96508,0,0,0,100
+Xây tường gạch ống dày 200 Hollow Brick wall 200 thick,12,2026-03-02,1772384400,96509,26.42,0,0,100
+Xây tường gạch ống dày 100 Hollow Brick wall 100 thick,12,2026-03-02,1772384400,96510,26.42,0,0,100
+"Xây gạch thẻ bậc thang, tam cấp Solid Brick for step, staircase",15,2026-03-02,1772384400,96511,20.41,0,0,100
+"Lanh tô, bổ trụ, kích thước 200x200 Lintel & stiffener column, size: 200x200",15,2026-03-02,1772384400,96512,26.42,0,0,100
+"Lanh tô, bổ trụ, kích thước 100x200 Lintel & stiffener column, size: 100x200",10,2026-03-02,1772384400,96513,26.42,0,0,100
+Công tác hoàn thiện nền Floor Finishing Work,0,2026-03-02,1772384400,96529,0,0,0,100
+"Xoa nhám mặt chống trượt nền BTCT Steel troweled finishing, anti slip",5,2026-03-02,1772384400,96534,100,0,0,100
+"Xoa nhám mặt chống trượt nền BTCT Steel troweled finishing, anti slip",10,2026-03-02,1772384400,96535,100,0,0,100
+SƠN PHẢN QUANG MÀU VÀNG/ĐEN CHO GỜ BẢO VỆ BÊ TÔNG RAMP DỐC YELLOW/BLACK PAINTING FOR RC CURVED EDGE,20,2026-03-02,1772384400,96538,100,0,0,100
